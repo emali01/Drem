@@ -89,7 +89,7 @@ header .navbar-brand img { width: 100%;}
 .ico-launchpad {padding-bottom:120px; background:url("../images/phase-bg.webp") no-repeat; background-position:bottom;}
 .trader-section .row {margin:0 -7px; row-gap:14px;}
 .trader-section .col-lg-4 {padding:0 7px;}
-.trader-box {display:flex; align-items:center; padding:20px 20px; gap:15px; color:#fff; border:1px solid #051c27; border-radius:10px; height:100%;}
+.trader-box {display:flex; align-items:center; padding:20px 20px; gap:15px; color:#fff; border:1px solid white; border-radius:10px; height:100%;}
 .trader-box h6 {font-size:18px; font-weight:500; margin-bottom:5px;}
 .trader-box p {font-size:14px; color:#fff; opacity:.8; margin:0;}
 .roadmap-sec h2 {margin-bottom:50px;}
